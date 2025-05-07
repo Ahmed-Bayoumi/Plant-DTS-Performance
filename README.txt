@@ -2,7 +2,6 @@
 This Power BI report was built using data related to Plant Production and Sales.
 The purpose of the report is to analyze Gross Profit, Sales, and Quantity dynamically over different periods, allowing easy comparison between timeframes.
 
-
 ** The report includes:
 - Clean and optimized data modeling.
 - Dynamic calculations via DAX Measures.
@@ -74,11 +73,9 @@ Calculates Gross Profit for Last Year
 - Donut Chart	: Shows Sales, Quantity and Gross Profit by Product Type.
 - Bar Chart	: Comparison between current and previous year by Country.
 
-
 🧩 Filters and Slicers
 - Button Slicers : Allow users to select between Sales, Quantity, or Gross Profit dynamically.
 - Date Slicer	 : Limits data to years.
-
 
 💡 Report Features :
 - Organized Measures into Folders for easy maintainability.
